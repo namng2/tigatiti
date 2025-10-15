@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigatiti
+- 👋 Hi, I’m Nam Nguyen
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++, Python, GO
 
